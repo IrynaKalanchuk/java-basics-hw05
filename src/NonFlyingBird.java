@@ -1,5 +1,3 @@
-public class NonFlyingBird {
-  // TODO fix class declaration
+abstract public class NonFlyingBird extends Bird {
 
-  // TODO override toString method by returning a string with the class name
 }

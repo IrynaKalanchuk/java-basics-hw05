@@ -1,7 +1,10 @@
-public class Bird {
-  // TODO fix class declaration
+abstract public class Bird {
 
   public void eat() {
-    // TODO print a message that bird is eating
+
+  }
+
+  public String toString() {
+    return getClass().getName();
   }
 }
